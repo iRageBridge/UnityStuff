@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: b58eeb81552d0e84ea0dfa826d9b99c9
+timeCreated: 1476397683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Project_Draft_6_0
+    21300002: Project_Draft_6_1
+    21300004: Project_Draft_6_2
+    21300006: Project_Draft_6_3
+    21300008: Project_Draft_6_4
+    21300010: Project_Draft_6_5
+    21300012: Project_Draft_6_6
+    21300014: Project_Draft_6_7
+    21300016: Project_Draft_6_8
+    21300018: Project_Draft_6_9
+    21300020: Project_Draft_6_10
+    21300022: Project_Draft_6_11
+    21300024: Project_Draft_6_12
+    21300026: Project_Draft_6_13
+    21300028: Project_Draft_6_14
+    21300030: Project_Draft_6_15
+    21300032: Project_Draft_6_16
+    21300034: Project_Draft_6_17
+    21300036: Project_Draft_6_18
+    21300038: Project_Draft_6_19
+    21300040: Project_Draft_6_20
+    21300042: Project_Draft_6_21
+    21300044: Project_Draft_6_22
+    21300046: Project_Draft_6_23
+    21300048: Project_Draft_6_24
+    21300050: Project_Draft_6_25
+    21300052: Project_Draft_6_26
+    21300054: Project_Draft_6_27
+    21300056: Project_Draft_6_28
+    21300058: Project_Draft_6_29
+    21300060: Project_Draft_6_30
+    21300062: Project_Draft_6_31
+    21300064: Project_Draft_6_32
+    21300066: Project_Draft_6_33
+    21300068: Project_Draft_6_34
+    21300070: Project_Draft_6_35
+    21300072: Project_Draft_6_36
+    21300074: Project_Draft_6_37
+    21300076: Project_Draft_6_38
+    21300078: Project_Draft_6_39
+    21300080: Project_Draft_6_40
+    21300082: Project_Draft_6_41
+    21300084: Project_Draft_6_42
+    21300086: Project_Draft_6_43
+    21300088: Project_Draft_6_44
+    21300090: Project_Draft_6_45
+    21300092: Project_Draft_6_46
+    21300094: Project_Draft_6_47
+    21300096: Project_Draft_6_48
+    21300098: Project_Draft_6_49
+    21300100: Project_Draft_6_50
+    21300102: Project_Draft_6_51
+    21300104: Project_Draft_6_52
+    21300106: Project_Draft_6_53
+    21300108: Project_Draft_6_54
+    21300110: Project_Draft_6_55
+    21300112: Project_Draft_6_56
+    21300114: Project_Draft_6_57
+    21300116: Project_Draft_6_58
+    21300118: Project_Draft_6_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project_Draft_6_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1050
+        width: 199
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1720
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1720
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1722
+        width: 199
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1724
+        width: 199
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1723
+        width: 199
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_6
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1722
+        width: 199
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_7
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1721
+        width: 199
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_8
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1719
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1382
+        width: 210
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1381
+        width: 199
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1382
+        width: 199
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1383
+        width: 199
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1384
+        width: 199
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_14
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1386
+        width: 199
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1388
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_16
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1390
+        width: 199
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_17
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1388
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1045
+        width: 199
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1043
+        width: 199
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1041
+        width: 199
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_22
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1044
+        width: 201
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_23
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1048
+        width: 199
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_24
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1053
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_25
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1053
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 713
+        width: 199
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 341}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 715
+        width: 201
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 714
+        width: 199
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 712
+        width: 199
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_30
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 711
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_31
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 709
+        width: 199
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_32
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 708
+        width: 199
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_33
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 707
+        width: 199
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 375
+        width: 199
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 374
+        width: 199
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 375
+        width: 200
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 379
+        width: 199
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_38
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 382
+        width: 199
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_39
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 380
+        width: 199
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_40
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 376
+        width: 199
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_41
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 371
+        width: 199
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_42
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 369
+        width: 199
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 29
+        width: 199
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 27
+        width: 199
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 30
+        width: 200
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project_Draft_6_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 199
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
